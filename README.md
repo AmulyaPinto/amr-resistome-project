@@ -55,7 +55,7 @@ Quantifying this: 60.5% of oral cavity samples and 37.9% of skin samples fall in
 
 ### 3. Membrane-associated resistance genes cluster together
 
-Among the 20 most prevalent genes, a distinct cluster of strongly co-occurring genes emerges: RND efflux pumps, ABC transporters, phosphoethanolamine transferase, undecaprenyl pyrophosphate-related proteins, and porin-related genes all show elevated positive correlation with one another, possibly resulting from shared selection pressure on cell-envelope mediated antibiotic defence. Most other gene pairs show correlation near zero, indicating largely independent presence.
+Among the 20 most prevalent genes, a distinct cluster of strongly co-occurring genes emerges: resistance-nodulation-cell division (RND) efflux pumps, ABC transporters, phosphoethanolamine transferase, undecaprenyl pyrophosphate-related proteins, and porin-related genes all show elevated positive correlation with one another, possibly resulting from shared selection pressure on cell-envelope mediated antibiotic defence. Most other gene pairs show correlation near zero, indicating largely independent presence.
 
 ![Gene co-occurrence heatmap](figures/gene_cooccurrence_heatmap.png)
 
